@@ -1,0 +1,6 @@
+{
+  "name": "貓咪股市亂想",
+  "description": "專為個股觀察設計的貓咪主題股市工具，支援多使用者個人化庫存追蹤、自訂拖曳排序、趨勢圖表與多週期漲幅分析、個股最新新聞外部連結、AI未來趨勢預測，以及可愛的遊走畫面貓咪小助手。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

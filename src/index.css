@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: Arial, "Helvetica Neue", Helvetica, "PingFang TC", "Noto Sans TC", "Heiti TC", sans-serif;
+    background-color: #000000;
+    color: #e2e8f0;
+  }
+
+  /* Font Mono for Stock Prices & Symbols set to Arial */
+  .font-mono, code, pre, kbd, samp {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+  }
+}
